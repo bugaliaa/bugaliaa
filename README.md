@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/sidinkd">
   <img align="left" alt="Sid Bugalia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -16,29 +16,35 @@
 
 <br />
 
-Hi, I'm [Siddhant Bugalia!], an Android Developer and a Competitive Programmer(JAVA).
+Hi, I'm Siddhant Bugalia!, an Android Developer and a Competitive Programmer(JAVA).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 A coder who dances, watches anime, plays video games and a computer hardware entusiast;
-- 🌱 I’m currently learning Android; 
-- 💬 Ask me about Competitive Coding, Anime, Android, Games;
+- 👨🏽‍💻 An Engineer Sophomore in Mathematics and Computing;
+- 🌱 I’m currently learning Android and Competitive Programming;
+- 🎨 I draw Anime and Gaming Characters at [@sidinkd](https://instagram.com/sidinkd)
+- 💬 Ask me about Competitive Coding, Anime, Android, Games and Art;
 - 📫 How to reach me: [@sidinkd](https://twitter.com/sidinkd);
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/php.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/kotlin.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/android-icon.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/linux-tux.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/aws.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/google-cloud.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></code>
+
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -50,15 +56,6 @@ Markdown     16 mins         ▒░░░░░░░░░░░░░░░░
 Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 <!--END_SECTION:waka-->
-
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,111 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 543 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
