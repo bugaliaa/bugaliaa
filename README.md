@@ -34,11 +34,11 @@ Hi, I'm Siddhant Bugalia!, an Android Developer and a Competitive Programmer(JAV
 <code><img height="20" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/php.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/firebase.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/kotlin.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/android-icon.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/linux-tux.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/aws.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/google-cloud.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
