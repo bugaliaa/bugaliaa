@@ -63,7 +63,7 @@ Text         9 mins          ▒░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bugalliaa&show_icons=true&theme=dracula" alt="sidbugalia" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bugaliaa&show_icons=true&theme=dracula" alt="sidbugalia" />
 
 
 
