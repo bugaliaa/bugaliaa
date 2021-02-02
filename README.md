@@ -9,7 +9,7 @@
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <a href="https://instagram.com/sidinkd">
-  <img align="left" alt="Sid Bugalia | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="Sid Bugalia | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bugaliaa.bugaliaa)
