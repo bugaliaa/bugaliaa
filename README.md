@@ -18,7 +18,7 @@
 
 Hi, I'm Siddhant Bugalia!, an Android Developer and a Competitive Programmer(JAVA).
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/bugaliaa/bugaliaa/blob/main/coding-freak.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
