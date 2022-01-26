@@ -32,17 +32,18 @@ Hi, I'm Siddhant Bugalia!, an Android Developer and a Competitive Programmer(JAV
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/php.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/spring-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/firebase.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/kotlin.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/android-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/aws.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/google-cloud.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/github-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/intellij-idea.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/ubuntu.svg"></code>
+
 
 
 
