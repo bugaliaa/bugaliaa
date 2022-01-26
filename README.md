@@ -22,8 +22,8 @@ Hi, I'm Siddhant Bugalia!, an Android Developer and a Competitive Programmer(JAV
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 An Engineer Sophomore in Mathematics and Computing;
-- 🌱 I’m currently learning Android and Competitive Programming;
+- 👨🏽‍💻 An Engineering Senior in Mathematics and Computing;
+- 🌱 I’m currently learning Android, Java Spring and Competitive Programming;
 - 🎨 I draw Anime and Gaming Characters at [@sidinkd](https://instagram.com/sidinkd)
 - 💬 Ask me about Competitive Coding, Anime, Android, Games and Art;
 - 📫 How to reach me: [@sidinkd](https://twitter.com/sidinkd);
