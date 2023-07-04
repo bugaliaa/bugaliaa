@@ -17,10 +17,10 @@ Hi, I'm Siddhant Bugalia!, an Android/Java(Spring) Developer and a Competitive P
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 An Engineering Senior in Mathematics and Computing;
-- 🌱 I’m currently learning Android, Java Spring and Competitive Programming;
+- 👨🏽‍💻 Major in Computer Engineering and Minor in Mathemtics;
+- 🌱 Current tech stack: Java Spring Boot, PostgreSQL, Redis, AWS;
 - 🎨 I draw Anime and Gaming Characters at [@sidinkd](https://instagram.com/sidinkd)
-- 💬 Ask me about Competitive Coding, Anime, Android, Games and Art;
+- 💬 Ask me about Software Engineering, Anime, Android, Games and Art;
 - 📫 How to reach me: [@sidinkd](https://twitter.com/sidinkd);
 
 **Languages and Tools:**  
