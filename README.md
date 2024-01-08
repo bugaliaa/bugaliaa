@@ -1,6 +1,6 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 <a href="https://www.linkedin.com/in/bugaliaa/">
-  <img align="left" alt="Siddhant's LinkedIN" width="22px" src="https://icons8.com/icon/13930/linkedin" />
+  ![image](https://github.com/bugaliaa/bugaliaa/assets/61515405/e520aca0-c31b-4b6d-8c1f-0bd6e10c4093)
 </a>
 <a href="https://instagram.com/sidinkd">
   <img align="left" alt="Sid Bugalia | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
